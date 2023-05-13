@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculatrice100" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Calculatrice100" parent="Base.Theme.Calculatrice100" />
+</resources>
